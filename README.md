@@ -2,7 +2,7 @@
 
 This repository is used to keep track of my work on the math, probability, and logic puzzles from [FiveThirtyEight](https://fivethirtyeight.com/). 
 
-![Logo](https://github.com/Booleans/riddler-538/blob/master/img/riddler_logo.gif)
+![Logo](https://github.com/Booleans/riddler-538/blob/main/img/riddler_logo.gif)
 
 [The Riddler](https://fivethirtyeight.com/tag/the-riddler/) is a weekly column over at FiveThirtyEight that offers math, logic, and probability puzzles. Every Friday there is a new "Express" and "Classic" puzzle.
 Express puzzles are intended to be relatively quick to solve, while the Classic problems are more challenging. 
