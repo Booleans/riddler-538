@@ -23,4 +23,4 @@ which will give each prisoner a random number, uniformly and independently chose
 What are your chances of being released?
 ```
 
-My solution to the example problem above can be viewed [here](https://nbviewer.jupyter.org/github/Booleans/riddler-538/blob/master/flip-to-freedom.ipynb). 
+My solution to the example problem above can be viewed [here](https://nbviewer.org/github/Booleans/riddler-538/blob/main/flip-to-freedom.ipynb). 
